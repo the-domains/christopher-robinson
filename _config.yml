@@ -21,8 +21,5 @@ navigation:
   - name: Services
     id: 03f93665-e4e1-458f-9935-8da286fe7916
     type: content
-  - name: Contact
-    id: 60283b96-880d-4f31-9973-312e51229c11
-    type: content
 title: Howdy World!
 description: 'First drive on The Grid, Woohoo!'
