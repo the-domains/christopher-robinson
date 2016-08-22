@@ -11,6 +11,8 @@ color:
     - '#F0F7F4'
     - '#A2E3C4'
 layout_spectrum: 0.8338410346768796
+analytics:
+  google: (UA-7031605-2)
 name: Christopher Robinson
 navigation:
   - name: About
