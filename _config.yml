@@ -24,9 +24,6 @@ navigation:
   - name: Now
     id: f7c86f45-37da-4daa-8247-c9a65d778bdb
     type: content
-  - name: Services
-    id: 87a5dc7c-3711-43bf-9b89-649361dcb73f
-    type: content
   - name: Contact
     id: 60283b96-880d-4f31-9973-312e51229c11
     type: content
