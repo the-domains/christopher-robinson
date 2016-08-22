@@ -24,5 +24,8 @@ navigation:
   - name: Now
     id: f7c86f45-37da-4daa-8247-c9a65d778bdb
     type: content
+  - name: About
+    id: 65632b74-adee-404e-bbba-7d4b37aa6996
+    type: content
 title: Howdy World!
 description: 'First drive on The Grid, Woohoo!'
