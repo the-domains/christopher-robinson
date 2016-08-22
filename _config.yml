@@ -12,5 +12,9 @@ color:
     - '#A2E3C4'
 layout_spectrum: 0.8338410346768796
 name: Christopher Robinson
+navigation:
+  - name: About
+    id: 65632b74-adee-404e-bbba-7d4b37aa6996
+    type: content
 title: Howdy World!
 description: 'First drive on The Grid, Woohoo!'
