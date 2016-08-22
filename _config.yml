@@ -1,4 +1,3 @@
-layout_spectrum: 0.6385564166121185
 typography_spectrum: 0.1091125919483602
 color:
   brandStrength: 0.2548510155174881
@@ -11,6 +10,7 @@ color:
     - '#A62626'
     - '#3D588F'
     - '#C7CAD1'
+layout_spectrum: 0.6385564166121185
 analytics:
   google: (UA-7031605-2)
 author:
