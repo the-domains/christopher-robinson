@@ -13,6 +13,9 @@ color:
 layout_spectrum: 0.8338410346768796
 analytics:
   google: (UA-7031605-2)
+author:
+  name: Christopher Robinson
+  url: 'http://christopherrobinson.com'
 name: Christopher Robinson
 navigation:
   - name: About
