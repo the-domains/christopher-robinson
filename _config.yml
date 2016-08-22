@@ -1,4 +1,3 @@
-layout_spectrum: 0.093871466582641
 typography_spectrum: 0.25025413930416107
 color:
   brandStrength: 0.2548510155174881
@@ -11,6 +10,7 @@ color:
     - '#A62626'
     - '#3D588F'
     - '#C7CAD1'
+layout_spectrum: 0.093871466582641
 analytics:
   google: (UA-7031605-2)
 author:
@@ -31,4 +31,4 @@ navigation:
     id: 60283b96-880d-4f31-9973-312e51229c11
     type: content
 title: Howdy World!
-description: 'First drive on The Grid, Woohoo!'
+description: ''
