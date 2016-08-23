@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-23T00:04:35.637Z'
+datePublished: '2016-08-23T00:07:30.517Z'
 sourcePath: _posts/2016-08-22-nutritional-ketogenesis.md
 author: []
 via: {}
-dateModified: '2016-08-23T00:04:35.252Z'
+dateModified: '2016-08-23T00:07:30.001Z'
 title: Nutritional Ketogenesis
 publisher: {}
 description: >-
@@ -48,21 +48,21 @@ Fundamentals to start:
 
 [Peter Attia - An Advantaged Metabolic State: Human Performance, Resilience & Health][0]
 
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/721bad081f8bebacf49116a80a12a3aa54e9c5c3.jpg" /><h1>The Eating Academy | Peter Attia, M.D.</h1><p>The best part of parenting (so far)? Helping your kids overcome things you struggled with. It's at least in the top 5. Last Saturday my daughter came home from dance class-something she normally loves-and seemed upset. A bit of prodding led to the cause: a girl in ...</p></article>
-
 [Very Low Carb Performance][1]
-
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7359fc4feb3453d1bd31602277fd3f0deca8c6ef.jpg" /><h1>Low Carb for Beginners</h1><p>Do you want effortless weight loss? Or type 2 diabetes reversal and other health benefits? Then a low-carb diet could be right for you. You can eat all you need to feel satisfied - there's no calorie counting required, ever. No products. No pills. No surgery. Just real food.</p></article>
 
 [Sugar: The Bitter Truth][2]
 
 [Jeff Volek: The Many Facets of Keto-Adaptation: Health, Performance, and Beyond][3]
 
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/169ea3b4a0b0553238d5d43a26264f7c1f5280bf.jpg" /><h1>Recipes - The Ketogenic Diet and Cancer - Patricia Daly</h1><p>My relationship with chocolate is a strange one. First of all, I'm Swiss! I HAVE to like chocolate, right? And this was very much the case when I grew up: I absolutely adored anything that only remotely contained chocolate... And now that I'm on a ketogenic diet, I obviously...</p></article>
-
 [Low Carb Explained][4]
 
 [Dr. Stephen Phinney - 'Achieving and Maintaining Nutritional Ketosis'][5]
+
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/721bad081f8bebacf49116a80a12a3aa54e9c5c3.jpg" /><h1>The Eating Academy | Peter Attia, M.D.</h1><p>The best part of parenting (so far)? Helping your kids overcome things you struggled with. It's at least in the top 5. Last Saturday my daughter came home from dance class-something she normally loves-and seemed upset. A bit of prodding led to the cause: a girl in ...</p></article>
+
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7359fc4feb3453d1bd31602277fd3f0deca8c6ef.jpg" /><h1>Low Carb for Beginners</h1><p>Do you want effortless weight loss? Or type 2 diabetes reversal and other health benefits? Then a low-carb diet could be right for you. You can eat all you need to feel satisfied - there's no calorie counting required, ever. No products. No pills. No surgery. Just real food.</p></article>
+
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/169ea3b4a0b0553238d5d43a26264f7c1f5280bf.jpg" /><h1>Recipes - The Ketogenic Diet and Cancer - Patricia Daly</h1><p>My relationship with chocolate is a strange one. First of all, I'm Swiss! I HAVE to like chocolate, right? And this was very much the case when I grew up: I absolutely adored anything that only remotely contained chocolate... And now that I'm on a ketogenic diet, I obviously...</p></article>
 
 <article style=""><h1>The Ketogenic Diet for Health</h1><p>Keto-adaptation is the process of shifting your metabolism from relying mostly on glucose for fuel, to relying mostly on fat-based sources of fuel. Not only does fat oxidation itself increase, but your body starts producing enough ketones that they can be used as a significant source of fuel as well.</p></article>
 
