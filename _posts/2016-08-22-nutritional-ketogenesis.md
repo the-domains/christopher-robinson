@@ -1,11 +1,12 @@
 ---
-datePublished: '2016-08-23T00:07:30.517Z'
+datePublished: '2016-08-23T00:11:23.853Z'
 sourcePath: _posts/2016-08-22-nutritional-ketogenesis.md
 author: []
 via: {}
-dateModified: '2016-08-23T00:07:30.001Z'
+dateModified: '2016-08-23T00:11:22.874Z'
 title: Nutritional Ketogenesis
-publisher: {}
+publisher:
+  name: Christopher Robinson
 description: >-
   Maybe you've seen me not eat anything at an event, or otherwise seen me being
   finicky about what foods I eat. It's not because I don't like the cooking, or
