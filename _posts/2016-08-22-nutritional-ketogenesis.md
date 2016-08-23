@@ -1,16 +1,16 @@
 ---
+datePublished: '2016-08-23T00:03:16.529Z'
+sourcePath: _posts/2016-08-22-nutritional-ketogenesis.md
+author: []
+via: {}
+dateModified: '2016-08-23T00:03:16.059Z'
+title: Nutritional Ketogenesis
+publisher: {}
 description: >-
   Maybe you've seen me not eat anything at an event, or otherwise seen me being
   finicky about what foods I eat. It's not because I don't like the cooking, or
   object to the company; but rather, due to a somewhat complex diet discipline.
-dateModified: '2016-08-22T23:59:44.753Z'
-datePublished: '2016-08-22T23:59:58.073Z'
-title: Nutritional Ketogenesis
-author: []
-publisher: {}
-via: {}
 starred: true
-sourcePath: _posts/2016-08-22-nutritional-ketogenesis.md
 inFeed: true
 hasPage: false
 inNav: false
