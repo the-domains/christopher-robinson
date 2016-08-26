@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-23T00:11:23.853Z'
+datePublished: '2016-08-26T00:44:08.667Z'
 sourcePath: _posts/2016-08-22-nutritional-ketogenesis.md
 author: []
 via: {}
-dateModified: '2016-08-23T00:11:22.874Z'
+dateModified: '2016-08-26T00:44:07.874Z'
 title: Nutritional Ketogenesis
 publisher:
   name: Christopher Robinson
