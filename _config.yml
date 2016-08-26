@@ -1,9 +1,23 @@
-layout_spectrum: 0.6260803730692714
-typography_spectrum: 0.24792068521492183
+author:
+  name: Christopher Robinson
+  url: 'http://christopherrobinson.com'
+title: ''
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+description: ''
 color:
+  saturation: 0.2062289596069604
   brandStrength: 0.9813658662606031
-  lightness: 0.8764805982355028
-  saturation: 0.20622895960696042
   rhythmicContrast: 0.4334342344664037
   brandColors:
     - '#F3F5F2'
@@ -11,12 +25,8 @@ color:
     - '#191814'
     - '#CA0810'
     - '#5E5D59'
-analytics:
-  google: (UA-7031605-2)
-author:
-  name: Christopher Robinson
-  url: 'http://christopherrobinson.com'
-name: Christopher Robinson
+  lightness: 0.8764805982355028
+typography_spectrum: 0.2479206852149218
 navigation:
   - name: Now
     id: f7c86f45-37da-4daa-8247-c9a65d778bdb
@@ -30,5 +40,7 @@ navigation:
   - name: Contact
     id: 60283b96-880d-4f31-9973-312e51229c11
     type: content
-title: ''
-description: ''
+analytics:
+  google: (UA-7031605-2)
+layout_spectrum: 0.3028674
+name: Christopher Robinson
