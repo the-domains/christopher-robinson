@@ -1,3 +1,16 @@
+layout_spectrum: 0.8571102949790657
+typography_spectrum: 0.7619490474462509
+color:
+  saturation: 0.24104893789626658
+  brandStrength: 0.15159711544401944
+  rhythmicContrast: 0.1408480175305158
+  brandColors:
+    - '#DC3522'
+    - '#D9CB9E'
+    - '#374140'
+    - '#2A2C2B'
+    - '#1E1E20'
+  lightness: 0.48676396789960563
 author:
   name: Christopher Robinson
   url: 'http://christopherrobinson.com'
@@ -15,18 +28,6 @@ collections:
       format: rss
       number: 10
 description: ''
-color:
-  saturation: 0.2062289596069604
-  brandStrength: 0.9813658662606031
-  rhythmicContrast: 0.4334342344664037
-  brandColors:
-    - '#F3F5F2'
-    - '#A8A8A0'
-    - '#191814'
-    - '#CA0810'
-    - '#5E5D59'
-  lightness: 0.8764805982355028
-typography_spectrum: 0.2479206852149218
 navigation:
   - name: Now
     id: f7c86f45-37da-4daa-8247-c9a65d778bdb
@@ -42,5 +43,4 @@ navigation:
     type: content
 analytics:
   google: (UA-7031605-2)
-layout_spectrum: 0.3028674
 name: Christopher Robinson
